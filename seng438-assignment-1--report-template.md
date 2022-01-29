@@ -12,21 +12,21 @@
 
 **Table of Contents**
 
-[1 Introduction	](#Introduction)
+[1 Introduction	1](#Introduction)
 
-[2 High-level description of the exploratory testing plan	](#High-level description of the exploratory testing plan)
+[2 High-level description of the exploratory testing plan	1](#High-level description of the exploratory testing plan)
 
-[3 Comparison of exploratory and manual functional testing	](#Comparison of exploratory and manual functional testing)
+[3 Comparison of exploratory and manual functional testing	1](#Comparison of exploratory and manual functional testing)
 
-[4 Notes and discussion of the peer reviews of defect reports	](#Notes and discussion of the peer reviews of defect reports)
+[4 Notes and discussion of the peer reviews of defect reports	1](#Notes and discussion of the peer reviews of defect reports)
 
 [5 How the pair testing was managed and team work/effort was
 divided	1](#How the pair testing was managed and team work/effort was divided )
 
 [6 Difficulties encountered, challenges overcome, and lessons
-learned	](#Difficulties encountered, challenges overcome, and lessons learned)
+learned	1](#Difficulties encountered, challenges overcome, and lessons learned)
 
-[7 Comments/feedback on the lab and lab document itself	](#Comments/feedback on the lab and lab document itself)
+[7 Comments/feedback on the lab and lab document itself	1](#Comments/feedback on the lab and lab document itself)
 
 # Introduction
 
