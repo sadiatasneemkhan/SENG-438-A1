@@ -10,24 +10,6 @@
 | Jaxson Waterstreet| 30095706   |  
 | Sadia Khan        | 30090271   |
 
-**Table of Contents**
-
-[1 Introduction	1](#Introduction)
-
-[2 High-level description of the exploratory testing plan	1](#High-level description of the exploratory testing plan)
-
-[3 Comparison of exploratory and manual functional testing	1](#Comparison of exploratory and manual functional testing)
-
-[4 Notes and discussion of the peer reviews of defect reports	1](#Notes and discussion of the peer reviews of defect reports)
-
-[5 How the pair testing was managed and team work/effort was
-divided	1](#How the pair testing was managed and team work/effort was divided )
-
-[6 Difficulties encountered, challenges overcome, and lessons
-learned	1](#Difficulties encountered, challenges overcome, and lessons learned)
-
-[7 Comments/feedback on the lab and lab document itself	1](#Comments/feedback on the lab and lab document itself)
-
 # Introduction
 
 Exploratory Testing:
