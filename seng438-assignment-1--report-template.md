@@ -33,8 +33,13 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+Exploratory Testing:
+
+Exploratory testing is a software testing approach that is unstructured and intuitive to humans. It is performed without a set plan/script. For exploratory testing, it is necessary for the tester to have a solid understanding of what the application being tested does, as it will give the tester general context and a firm grasp on testing requirements. Thus, a tester should increase their knowledge and learn about the software by exploring it. It also grants testers greater freedom as they are released from testing restraints that come along with following a script. Tests are designed and executed at the same time, and the following tests are designed based on the current step. Testers have the ability to traverse in any direction they desire, as they move along in the application and look for bugs.
+
+Manual Functional/Scripted Testing:
+
+Manual scripted testing is another software testing approach that is much more structured and systematic, as it has a set of guidelines to be followed. The given path is called a script and is written by the tester themselves, or possibly someone else. It must be followed with no deviation during testing. The script includes the documented test cases and test steps that were designed and reviewed by the tester. Execution of the tests occur after the script has been created. Since the sequence and process of test cases can be shared with others, manual scripted testing can be performed by different testers as well. A drawback of this testing is that with a script, the same fault is missed every time if the fault is outside of the testing range.
 
 # High-level description of the exploratory testing plan
 
