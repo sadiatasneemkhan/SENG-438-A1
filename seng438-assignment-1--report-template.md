@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:  35     |            |
+| Group \:  35     |            |
 |-------------------|------------|
 | Student Names:    |    UCID    |
 | Luis Sulbaran     | 30090906   |
