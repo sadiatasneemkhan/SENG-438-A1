@@ -12,24 +12,21 @@
 
 **Table of Contents**
 
-(When you finish writing, update the following list using right click, then
-“Update Field”)
+[1 Introduction	](#Introduction)
 
-[1 Introduction	1](#Introduction)
+[2 High-level description of the exploratory testing plan	](#High-level description of the exploratory testing plan)
 
-[2 High-level description of the exploratory testing plan	1](#_Toc439194678)
+[3 Comparison of exploratory and manual functional testing	](#Comparison of exploratory and manual functional testing)
 
-[3 Comparison of exploratory and manual functional testing	1](#_Toc439194679)
-
-[4 Notes and discussion of the peer reviews of defect reports	1](#_Toc439194680)
+[4 Notes and discussion of the peer reviews of defect reports	](#Notes and discussion of the peer reviews of defect reports)
 
 [5 How the pair testing was managed and team work/effort was
-divided	1](#_Toc439194681)
+divided	1](#How the pair testing was managed and team work/effort was divided )
 
 [6 Difficulties encountered, challenges overcome, and lessons
-learned	1](#_Toc439194682)
+learned	](#Difficulties encountered, challenges overcome, and lessons learned)
 
-[7 Comments/feedback on the lab and lab document itself	1](#_Toc439194683)
+[7 Comments/feedback on the lab and lab document itself	](#Comments/feedback on the lab and lab document itself)
 
 # Introduction
 
