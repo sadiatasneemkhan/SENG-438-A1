@@ -2,12 +2,13 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
-|-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Group \#:  35     |   |
+|-------------------|---|
+| Student Names:    |   |
+| Luis Sulbaran     |   |
+| Adam Abouelhassan |   |
+| Jaxson Waterstreet|   |
+| Sadia Khan        |   |
 
 **Table of Contents**
 
